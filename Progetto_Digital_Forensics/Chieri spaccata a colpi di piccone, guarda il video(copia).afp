@@ -1,0 +1,1294 @@
+{
+   "Name" : "Amped FIVE Project",
+   "Revision" : 35517,
+   "Version" : "3.0",
+   "Properties" : {
+      "Case" : "",
+      "Author" : "",
+      "Description" : "",
+      "Report Max Image Width" : 600,
+      "Report Min Image Width" : 0
+   },
+   "Chains" : [
+      {
+         "Name" : "Chieri spaccata a colpi di piccone, guarda il video(copia)",
+         "Id" : 1,
+         "IsExpanded" : true,
+         "Level" : 1,
+         "Filters" : [
+            {
+               "Type" : "Video Loader",
+               "Id" : 1,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Chieri spaccata a colpi di piccone, guarda il video(copia).mp4",
+                  "Video Engine" : "FFMS with Audio",
+                  "Color Range" : "From File",
+                  "Chroma Upsampling" : "Accurate Rounding (Slower)",
+                  "Audio Stream" : "1",
+                  "Add Video Frames" : false,
+                  "Added Frames Color" : "black",
+                  "Original File" : "",
+                  "Concatenate File List" : null,
+                  "Force Open" : false
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 49,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame2449.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 99,
+                  "Frame Position" : 2449
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 34,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "CalcoloAltezze/AltezzaIgnoto1Frame1239.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 1239
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 14,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1239.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 2343
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 12,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1328.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 1328
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 11,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame351.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 351
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 10,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frane 2631.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 2631
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 9,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame2403.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 2403
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 8,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame2362.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 2362
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 7,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame2298.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 2298
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 6,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1419.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 1419
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 5,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1306.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 1306
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 2,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Chieri spaccata a colpi di piccone, guarda il video(copia)-250123151736.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 100,
+                  "Frame Position" : 715
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 4,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1160.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 1160
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 3,
+               "Enabled" : false,
+               "Parameters" : {
+                  "File" : "frame863.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 863
+               }
+            }
+         ]
+      },
+      {
+         "Name" : "frame2343",
+         "Id" : 38,
+         "IsExpanded" : true,
+         "Level" : 1,
+         "Filters" : [
+            {
+               "Type" : "Image Loader",
+               "Id" : 38,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/frame2343.jpg"
+               }
+            },
+            {
+               "Type" : "Measure 3d",
+               "Id" : 39,
+               "Enabled" : true,
+               "Parameters" : {
+                  "X-axis Lines" : [
+                     [
+                        [
+                           116,
+                           453
+                        ],
+                        [
+                           507,
+                           451
+                        ]
+                     ],
+                     [
+                        [
+                           140,
+                           388
+                        ],
+                        [
+                           495,
+                           387
+                        ]
+                     ]
+                  ],
+                  "Y-axis Lines" : [
+                     [
+                        [
+                           106,
+                           478
+                        ],
+                        [
+                           165,
+                           314
+                        ]
+                     ],
+                     [
+                        [
+                           514,
+                           478
+                        ],
+                        [
+                           482,
+                           330
+                        ]
+                     ]
+                  ],
+                  "Z-axis Lines" : [
+                     [
+                        [
+                           356,
+                           5
+                        ],
+                        [
+                           364,
+                           205
+                        ]
+                     ],
+                     [
+                        [
+                           437,
+                           3
+                        ],
+                        [
+                           438,
+                           222
+                        ]
+                     ]
+                  ],
+                  "Reference Axis Direction" : "Z-axis",
+                  "Reference Line" : [
+                     [
+                        515,
+                        290
+                     ],
+                     [
+                        523,
+                        43
+                     ]
+                  ],
+                  "Reference Length" : 195,
+                  "Unit of Measurement" : "cm",
+                  "Decimal Places" : 2,
+                  "Correct Direction" : false,
+                  "Output Line" : [
+                     [
+                        319,
+                        340
+                     ],
+                     [
+                        302,
+                        84
+                     ]
+                  ],
+                  "Output Length" : 186.4935238,
+                  "Output Error" : 2.287569469,
+                  "Experimental Error" : 0,
+                  "Output Range" : "184.21 cm – 188.78 cm",
+                  "Output Line 2" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        0,
+                        0
+                     ]
+                  ],
+                  "Output Length 2" : 0,
+                  "Output Error 2" : 0,
+                  "Output Range 2" : "",
+                  "Difference" : 0,
+                  "Difference Error" : 0,
+                  "Difference Range" : "",
+                  "Helper Lines" : [
+                  ],
+                  "Show X Lines" : true,
+                  "Show Y Lines" : true,
+                  "Show Z Lines" : true,
+                  "Show Reference Line" : true,
+                  "Show Reference Measure" : true,
+                  "Show Output Line" : true,
+                  "Show Output Measure" : true,
+                  "Show Helper Lines" : true,
+                  "Show Horizon" : false
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 43,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "CalcoloAltezze/AltezzaIgnoto1Frame2343.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 100,
+                  "Frame Position" : 0
+               }
+            }
+         ]
+      },
+      {
+         "Name" : "frame1239",
+         "Id" : 35,
+         "IsExpanded" : true,
+         "Level" : 1,
+         "Filters" : [
+            {
+               "Type" : "Image Loader",
+               "Id" : 35,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1239.jpg"
+               }
+            },
+            {
+               "Type" : "Measure 3d",
+               "Id" : 36,
+               "Enabled" : true,
+               "Parameters" : {
+                  "X-axis Lines" : [
+                     [
+                        [
+                           117,
+                           453
+                        ],
+                        [
+                           557,
+                           448
+                        ]
+                     ],
+                     [
+                        [
+                           281,
+                           333
+                        ],
+                        [
+                           521,
+                           329
+                        ]
+                     ]
+                  ],
+                  "Y-axis Lines" : [
+                     [
+                        [
+                           564,
+                           472
+                        ],
+                        [
+                           519,
+                           317
+                        ]
+                     ],
+                     [
+                        [
+                           167,
+                           310
+                        ],
+                        [
+                           113,
+                           466
+                        ]
+                     ]
+                  ],
+                  "Z-axis Lines" : [
+                     [
+                        [
+                           357,
+                           5
+                        ],
+                        [
+                           363,
+                           206
+                        ]
+                     ],
+                     [
+                        [
+                           438,
+                           3
+                        ],
+                        [
+                           438,
+                           221
+                        ]
+                     ]
+                  ],
+                  "Reference Axis Direction" : "Z-axis",
+                  "Reference Line" : [
+                     [
+                        516,
+                        290
+                     ],
+                     [
+                        524,
+                        40
+                     ]
+                  ],
+                  "Reference Length" : 195,
+                  "Unit of Measurement" : "cm",
+                  "Decimal Places" : 2,
+                  "Correct Direction" : true,
+                  "Output Line" : [
+                     [
+                        304,
+                        302
+                     ],
+                     [
+                        291,
+                        63
+                     ]
+                  ],
+                  "Output Length" : 186.9639418,
+                  "Output Error" : 2.499159899,
+                  "Experimental Error" : 0,
+                  "Output Range" : "184.46 cm – 189.46 cm",
+                  "Output Line 2" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        0,
+                        0
+                     ]
+                  ],
+                  "Output Length 2" : 0,
+                  "Output Error 2" : 0,
+                  "Output Range 2" : "",
+                  "Difference" : 0,
+                  "Difference Error" : 0,
+                  "Difference Range" : "",
+                  "Helper Lines" : [
+                  ],
+                  "Show X Lines" : true,
+                  "Show Y Lines" : true,
+                  "Show Z Lines" : true,
+                  "Show Reference Line" : true,
+                  "Show Reference Measure" : true,
+                  "Show Output Line" : true,
+                  "Show Output Measure" : true,
+                  "Show Helper Lines" : true,
+                  "Show Horizon" : false
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 37,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "CalcoloAltezze/AltezzaIgnoto1Frame1239.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 90,
+                  "Frame Position" : 0
+               }
+            }
+         ]
+      },
+      {
+         "Name" : "frame1328",
+         "Id" : 41,
+         "IsExpanded" : true,
+         "Level" : 1,
+         "Filters" : [
+            {
+               "Type" : "Image Loader",
+               "Id" : 41,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1328.jpg"
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 52,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "CalcoloAltezze/AltezzaIgnoto2frame1328.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 100,
+                  "Frame Position" : 0
+               }
+            },
+            {
+               "Type" : "Measure 3d",
+               "Id" : 45,
+               "Enabled" : true,
+               "Parameters" : {
+                  "X-axis Lines" : [
+                     [
+                        [
+                           117,
+                           453
+                        ],
+                        [
+                           557,
+                           448
+                        ]
+                     ],
+                     [
+                        [
+                           281,
+                           333
+                        ],
+                        [
+                           521,
+                           329
+                        ]
+                     ]
+                  ],
+                  "Y-axis Lines" : [
+                     [
+                        [
+                           564,
+                           472
+                        ],
+                        [
+                           519,
+                           317
+                        ]
+                     ],
+                     [
+                        [
+                           167,
+                           310
+                        ],
+                        [
+                           113,
+                           466
+                        ]
+                     ]
+                  ],
+                  "Z-axis Lines" : [
+                     [
+                        [
+                           357,
+                           5
+                        ],
+                        [
+                           363,
+                           206
+                        ]
+                     ],
+                     [
+                        [
+                           438,
+                           3
+                        ],
+                        [
+                           438,
+                           221
+                        ]
+                     ]
+                  ],
+                  "Reference Axis Direction" : "Z-axis",
+                  "Reference Line" : [
+                     [
+                        516,
+                        290
+                     ],
+                     [
+                        524,
+                        40
+                     ]
+                  ],
+                  "Reference Length" : 195,
+                  "Unit of Measurement" : "cm",
+                  "Decimal Places" : 2,
+                  "Correct Direction" : true,
+                  "Output Line" : [
+                     [
+                        241,
+                        442
+                     ],
+                     [
+                        217,
+                        160
+                     ]
+                  ],
+                  "Output Length" : 182.5020885,
+                  "Output Error" : 2.15699015,
+                  "Experimental Error" : 0,
+                  "Output Range" : "180.35 cm – 184.66 cm",
+                  "Output Line 2" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        0,
+                        0
+                     ]
+                  ],
+                  "Output Length 2" : 0,
+                  "Output Error 2" : 0,
+                  "Output Range 2" : "",
+                  "Difference" : 0,
+                  "Difference Error" : 0,
+                  "Difference Range" : "",
+                  "Helper Lines" : [
+                  ],
+                  "Show X Lines" : true,
+                  "Show Y Lines" : true,
+                  "Show Z Lines" : true,
+                  "Show Reference Line" : true,
+                  "Show Reference Measure" : true,
+                  "Show Output Line" : true,
+                  "Show Output Measure" : true,
+                  "Show Helper Lines" : true,
+                  "Show Horizon" : false
+               }
+            }
+         ]
+      },
+      {
+         "Name" : "frame2449",
+         "Id" : 50,
+         "IsExpanded" : true,
+         "Level" : 1,
+         "Filters" : [
+            {
+               "Type" : "Image Loader",
+               "Id" : 50,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/frame2449.jpg"
+               }
+            },
+            {
+               "Type" : "Measure 3d",
+               "Id" : 51,
+               "Enabled" : true,
+               "Parameters" : {
+                  "X-axis Lines" : [
+                     [
+                        [
+                           117,
+                           453
+                        ],
+                        [
+                           557,
+                           448
+                        ]
+                     ],
+                     [
+                        [
+                           281,
+                           333
+                        ],
+                        [
+                           521,
+                           329
+                        ]
+                     ]
+                  ],
+                  "Y-axis Lines" : [
+                     [
+                        [
+                           564,
+                           472
+                        ],
+                        [
+                           519,
+                           317
+                        ]
+                     ],
+                     [
+                        [
+                           167,
+                           310
+                        ],
+                        [
+                           113,
+                           466
+                        ]
+                     ]
+                  ],
+                  "Z-axis Lines" : [
+                     [
+                        [
+                           357,
+                           5
+                        ],
+                        [
+                           363,
+                           206
+                        ]
+                     ],
+                     [
+                        [
+                           438,
+                           3
+                        ],
+                        [
+                           438,
+                           221
+                        ]
+                     ]
+                  ],
+                  "Reference Axis Direction" : "Z-axis",
+                  "Reference Line" : [
+                     [
+                        516,
+                        290
+                     ],
+                     [
+                        524,
+                        40
+                     ]
+                  ],
+                  "Reference Length" : 195,
+                  "Unit of Measurement" : "cm",
+                  "Decimal Places" : 2,
+                  "Correct Direction" : true,
+                  "Output Line" : [
+                     [
+                        302,
+                        340
+                     ],
+                     [
+                        287,
+                        81
+                     ]
+                  ],
+                  "Output Length" : 190.6168799,
+                  "Output Error" : 2.345080251,
+                  "Experimental Error" : 0,
+                  "Output Range" : "188.27 cm – 192.96 cm",
+                  "Output Line 2" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        0,
+                        0
+                     ]
+                  ],
+                  "Output Length 2" : 0,
+                  "Output Error 2" : 0,
+                  "Output Range 2" : "",
+                  "Difference" : 0,
+                  "Difference Error" : 0,
+                  "Difference Range" : "",
+                  "Helper Lines" : [
+                  ],
+                  "Show X Lines" : true,
+                  "Show Y Lines" : true,
+                  "Show Z Lines" : true,
+                  "Show Reference Line" : true,
+                  "Show Reference Measure" : true,
+                  "Show Output Line" : true,
+                  "Show Output Measure" : true,
+                  "Show Helper Lines" : true,
+                  "Show Horizon" : false
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 53,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "CalcoloAltezze/AltezzaIgnot2Frame2449.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 100,
+                  "Frame Position" : 0
+               }
+            }
+         ]
+      },
+      {
+         "Name" : "frame1328",
+         "Id" : 16,
+         "IsExpanded" : true,
+         "Level" : 1,
+         "Filters" : [
+            {
+               "Type" : "Image Loader",
+               "Id" : 16,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/frame1328.jpg"
+               }
+            },
+            {
+               "Type" : "Motion Deblurring",
+               "Id" : 30,
+               "Enabled" : false,
+               "Parameters" : {
+                  "Size" : 1,
+                  "Angle" : 46.4349,
+                  "Noise" : 0.02773320105,
+                  "Mode" : "Linear",
+                  "Thickness" : 1,
+                  "Boundary Conditions" : "Periodic"
+               }
+            },
+            {
+               "Type" : "Exposure",
+               "Id" : 18,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Exposure" : 0,
+                  "Offset" : -0.14,
+                  "Recover" : 1,
+                  "Selection" : {
+                     "Type" : "Whole Image",
+                     "Input" : {
+                     }
+                  }
+               }
+            },
+            {
+               "Type" : "Contrast Brightness",
+               "Id" : 19,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Contrast" : 33,
+                  "Brightness" : -2,
+                  "Mode" : "Linear",
+                  "Selection" : {
+                     "Type" : "Static Region",
+                     "Input" : {
+                        "0" : [
+                           176,
+                           139,
+                           119,
+                           114
+                        ]
+                     }
+                  }
+               }
+            },
+            {
+               "Type" : "Spotlight",
+               "Id" : 20,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Contrast" : 32,
+                  "Brightness" : 36,
+                  "Shape" : "Round",
+                  "Selection Type" : "Normal",
+                  "Selection" : {
+                     "Type" : "Static Region",
+                     "Input" : {
+                        "0" : [
+                           177,
+                           142,
+                           119,
+                           115
+                        ]
+                     }
+                  }
+               }
+            },
+            {
+               "Type" : "Compare Original",
+               "Id" : 21,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Mode" : "Side-by-Side Horizontally",
+                  "Balance" : 0.5,
+                  "Gain" : 1,
+                  "Line Color" : "",
+                  "Line Thickness" : 0
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 22,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/ConfrontoIgnoto2.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 100,
+                  "Frame Position" : 0
+               }
+            }
+         ]
+      },
+      {
+         "Name" : "frame2298",
+         "Id" : 23,
+         "IsExpanded" : true,
+         "Level" : 1,
+         "Filters" : [
+            {
+               "Type" : "Image Loader",
+               "Id" : 23,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/frame2298.jpg"
+               }
+            },
+            {
+               "Type" : "Curves",
+               "Id" : 24,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Value" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        80,
+                        24
+                     ],
+                     [
+                        151,
+                        97
+                     ],
+                     [
+                        215,
+                        187
+                     ],
+                     [
+                        255,
+                        255
+                     ]
+                  ],
+                  "Red" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        255,
+                        255
+                     ]
+                  ],
+                  "Green" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        255,
+                        255
+                     ]
+                  ],
+                  "Blue" : [
+                     [
+                        0,
+                        0
+                     ],
+                     [
+                        255,
+                        255
+                     ]
+                  ],
+                  "Mode" : "Cubic Spline",
+                  "Selection" : {
+                     "Type" : "Static Region",
+                     "Input" : {
+                        "0" : [
+                           400,
+                           145,
+                           136,
+                           163
+                        ]
+                     }
+                  }
+               }
+            },
+            {
+               "Type" : "Exposure",
+               "Id" : 25,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Exposure" : 0,
+                  "Offset" : 0.09,
+                  "Recover" : 1,
+                  "Selection" : {
+                     "Type" : "Static Region",
+                     "Input" : {
+                        "0" : [
+                           400,
+                           145,
+                           137,
+                           164
+                        ]
+                     }
+                  }
+               }
+            },
+            {
+               "Type" : "Contrast Brightness",
+               "Id" : 27,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Contrast" : 23,
+                  "Brightness" : -22,
+                  "Mode" : "Linear",
+                  "Selection" : {
+                     "Type" : "Static Region",
+                     "Input" : {
+                        "0" : [
+                           399,
+                           146,
+                           138,
+                           164
+                        ]
+                     }
+                  }
+               }
+            },
+            {
+               "Type" : "Compare Original",
+               "Id" : 28,
+               "Enabled" : true,
+               "Parameters" : {
+                  "Mode" : "Side-by-Side Horizontally",
+                  "Balance" : 0.5,
+                  "Gain" : 1,
+                  "Line Color" : "",
+                  "Line Thickness" : 0
+               }
+            },
+            {
+               "Type" : "Image Writer",
+               "Id" : 29,
+               "Enabled" : true,
+               "Parameters" : {
+                  "File" : "Frame Video/ConfrontoPrimoIgnoto.jpg",
+                  "Format" : "Jpeg",
+                  "Quality" : 100,
+                  "Frame Position" : 0
+               }
+            }
+         ]
+      }
+   ],
+   "Bookmarks" : [
+      {
+         "Name" : "Video Loader, frame 715",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 715,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Image Writer, frame 863",
+         "Description" : "",
+         "Id" : 2,
+         "Position" : 863,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1160",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1160,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1306",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1306,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1419",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1419,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2298",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2298,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2403",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2403,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2631",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2631,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 351",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 351,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1328",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1328,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1239",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1239,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2343",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2343,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Carica Filmato, fotogramma 2449",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2449,
+         "Level" : 1,
+         "IsExpanded" : true
+      }
+   ],
+   "BookmarksTree" : [
+      {
+         "Name" : "Video Loader, frame 715",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 715,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Image Writer, frame 863",
+         "Description" : "",
+         "Id" : 2,
+         "Position" : 863,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1160",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1160,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1306",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1306,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1419",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1419,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2298",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2298,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2403",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2403,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2631",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2631,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 351",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 351,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1328",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1328,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 1239",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 1239,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Video Loader, frame 2343",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2343,
+         "Level" : 1,
+         "IsExpanded" : true
+      },
+      {
+         "Name" : "Carica Filmato, fotogramma 2449",
+         "Description" : "",
+         "Id" : 1,
+         "Position" : 2449,
+         "Level" : 1,
+         "IsExpanded" : true
+      }
+   ],
+   "Notes" : "",
+   "Id" : 36,
+   "Position" : 0
+}
