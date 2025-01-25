@@ -1,0 +1,117 @@
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:13
+Url: https://en.fawproject.com/itsdone/
+Domain: .fawproject.com
+Name: _ga
+Value: GA1.2.1837424529.1737016782
+Expires: 2026-02-26T14:53:35
+Path: /
+IsSecure: False
+IsHttpOnly: False
+LastAccess: 2025-01-22T14:17:09
+Creation: 2025-01-16T08:39:42
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:13
+Url: https://en.fawproject.com/itsdone/
+Domain: .fawproject.com
+Name: _gid
+Value: GA1.2.681577047.1737553395
+Expires: 2025-01-23T14:53:35
+Path: /
+IsSecure: False
+IsHttpOnly: False
+LastAccess: 2025-01-22T14:17:09
+Creation: 2025-01-22T13:43:15
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:13
+Url: https://en.fawproject.com/itsdone/
+Domain: .fawproject.com
+Name: _ga_7KDZY3Y0LY
+Value: GS1.2.1737553395.2.1.1737554015.0.0.0
+Expires: 2026-02-26T14:53:35
+Path: /
+IsSecure: False
+IsHttpOnly: False
+LastAccess: 2025-01-22T14:17:09
+Creation: 2025-01-22T13:53:35
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:18
+Url: https://www.youtube.com/watch?v=2UHJR4nGs8k
+Domain: .youtube.com
+Name: PREF
+Value: tz=Europe.Rome
+Expires: 2026-02-26T14:53:42
+Path: /
+IsSecure: True
+IsHttpOnly: False
+LastAccess: 2025-01-22T14:17:18
+Creation: 2025-01-22T11:34:32
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:18
+Url: https://www.youtube.com/watch?v=2UHJR4nGs8k
+Domain: .youtube.com
+Name: SOCS
+Value: CAESEwgDEgk3MTc2NjE4MjEaAmVuIAEaBgiA6sC8Bg
+Expires: 2026-02-21T12:34:40
+Path: /
+IsSecure: True
+IsHttpOnly: False
+LastAccess: 2025-01-22T14:17:18
+Creation: 2025-01-22T11:34:40
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:18
+Url: https://www.youtube.com/watch?v=2UHJR4nGs8k
+Domain: .youtube.com
+Name: __Secure-YEC
+Value: CgtzdG4zRkVxbk1ZOCju-8O8BjIiCgJJVBIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgNw%3D%3D
+Expires: 2026-02-21T12:34:29
+Path: /
+IsSecure: True
+IsHttpOnly: True
+LastAccess: 2025-01-22T14:17:18
+Creation: 2025-01-22T14:17:18
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:18
+Url: https://www.youtube.com/watch?v=2UHJR4nGs8k
+Domain: .youtube.com
+Name: PREF
+Value: tz=Europe.Rome
+Expires: 2026-02-26T14:53:42
+Path: /
+IsSecure: True
+IsHttpOnly: False
+LastAccess: 2025-01-22T14:17:18
+Creation: 2025-01-22T11:34:32
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:18
+Url: https://www.youtube.com/watch?v=2UHJR4nGs8k
+Domain: .youtube.com
+Name: SOCS
+Value: CAESEwgDEgk3MTc2NjE4MjEaAmVuIAEaBgiA6sC8Bg
+Expires: 2026-02-21T12:34:40
+Path: /
+IsSecure: True
+IsHttpOnly: False
+LastAccess: 2025-01-22T14:17:18
+Creation: 2025-01-22T11:34:40
+
+
+TimeStamp Acquisition cookie (UTC): 2025-01-22T14:17:18
+Url: https://www.youtube.com/watch?v=2UHJR4nGs8k
+Domain: .youtube.com
+Name: __Secure-YEC
+Value: CgtzdG4zRkVxbk1ZOCju-8O8BjIiCgJJVBIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgNw%3D%3D
+Expires: 2026-02-21T12:34:29
+Path: /
+IsSecure: True
+IsHttpOnly: True
+LastAccess: 2025-01-22T14:17:18
+Creation: 2025-01-22T14:17:18
+
+

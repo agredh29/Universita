@@ -1,0 +1,3134 @@
+Software FAW versione: 11.5.13.0 PROFESSIONAL DEMO DEMO NON VALIDO A FINI PROBATORI
+Proprietario: Agostino Romano - Unict - agdrksl@gmail.com
+Data scadenza licenza: 2025-01-26
+URL: https://www.youtube.com/watch?v=2UHJR4nGs8k
+Host: www.youtube.com
+IP Host: 142.251.209.14
+User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E)
+Inizio Cattura Data/Ora UTC:  2025-01-22T14:20:51
+Fine Cattura Data/Ora UTC:  2025-01-22T14:21:43
+Inizio Cattura Data/Ora: 2025-01-22T15:20:51+0100
+Fine Cattura Data/Ora: 2025-01-22T15:21:43+0100
+ID rete disponibile: 2C98118D13D1 name: \Device\NPF_{F60B586B-32FC-45C9-AE36-25D6C2184B53}
+ID rete disponibile: 0A0027000010 name: \Device\NPF_{E8E66D96-E64E-478C-B386-BA4748064EC6}
+Server NTP: 193.204.114.232
+È in uso il Proxy: False
+Proxy: www.google.com
+DNS Local Machine fec0:0:0:ffff::1%1
+ExternalIpMachine:  79.44.43.93
+ID Caso: 20250122151616
+ID Acquisizione: 20250122151616#00001
+Investigatore: 
+Nome del tecnico: Agostino Romano
+Azienda: 
+Nome del caso: Chieri: spaccata a colpi di piccone, guarda il video
+Dipartimento: 
+Numero della prova: 
+Note: Video ripresa del negozio derubato
+Tipo reato: Furto con scasso 
+Ubicazione: 
+Formato pixel Screenshot:Format24bppRgb
+
+
+
+Image.png
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Larghezza: 1919px
+Lunghezza: 873px
+Dimensioni: 928399 Byte
+
+
+
+Code.html
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1426600 Byte
+
+
+
+Headers.txt
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2380 Byte
+
+
+
+Hosts
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 824 Byte
+
+
+
+SystemLogEvents.txt
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 19844 Byte
+
+
+
+Acquisition.log
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 198274 Byte
+
+
+
+sslkeylog.log
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 33322 Byte
+
+
+
+Whois.txt
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 3849 Byte
+
+
+
+NSLookup.txt
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 292 Byte
+
+
+
+FAWCA.dll
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 204875 Byte
+
+
+
+Cookies.txt
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2998 Byte
+
+
+
+[00000][WEBCL]watch
+URL file: https://www.youtube.com/watch?v=2UHJR4nGs8k
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 868870 Byte
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: br
+content-security-policy: require-trusted-types-for 'script'
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy: same-origin-allow-popups; report-to="youtube_main"
+date: Wed, 22 Jan 2025 14:17:18 GMT
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+origin-trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+pragma: no-cache
+report-to: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+server: ESF
+set-cookie: __Secure-YEC=CgtzdG4zRkVxbk1ZOCju-8O8BjIiCgJJVBIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgNw%3D%3D; Domain=.youtube.com; Expires=Sat, 21-Feb-2026 11:34:29 GMT; Path=/; Secure; HttpOnly; SameSite=lax,VISITOR_PRIVACY_METADATA=CgJJVBIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgNw%3D%3D; Domain=.youtube.com; Expires=Sat, 21-Feb-2026 14:17:18 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned,VISITOR_INFO1_LIVE=; Domain=.youtube.com; Expires=Thu, 28-Apr-2022 14:17:18 GMT; Path=/; Secure; HttpOnly; SameSite=none,VISITOR_INFO1_LIVE=; Domain=.youtube.com; Expires=Thu, 28-Apr-2022 14:17:18 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+strict-transport-security: max-age=31536000
+vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+
+
+
+[00001][WEBCL]base.js
+URL file: https://www.youtube.com/s/player/dd017f77/player_ias.vflset/en_US/base.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2518428 Byte
+accept-ranges: bytes
+age: 60378
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 652521
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 18:48:15 GMT
+expires: Wed, 21 Jan 2026 18:48:15 GMT
+last-modified: Thu, 16 Jan 2025 05:15:04 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00002][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/2UHJR4nGs8k/hqdefault.jpg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 17533 Byte
+accept-ranges: bytes
+age: 0
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 17533
+content-type: image/jpeg
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:44:42 GMT
+etag: "0"
+expires: Wed, 22 Jan 2025 15:44:42 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00003][WEBCL]desktop_polymer.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/desktop_polymer.vflset/desktop_polymer.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 8655341 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 1576650
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00004][WEBCL]web-animations-next-lite.min.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 50864 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 15162
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00005][WEBCL]custom-elements-es5-adapter.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2051 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 789
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00006][WEBCL]webcomponents-sd.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/webcomponents-sd.vflset/webcomponents-sd.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 78674 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 22928
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00007][WEBCL]intersection-observer.min.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/intersection-observer.min.vflset/intersection-observer.min.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 5547 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 2083
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00008][WEBCL]scheduler.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/scheduler.vflset/scheduler.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 9713 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 3719
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00010][WEBCL]www-i18n-constants.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/www-i18n-constants-en_US.vflset/www-i18n-constants.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 5862 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 1672
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00011][WEBCL]css2
+URL file: https://fonts.googleapis.com/css2?family=Roboto_old:wght@300;400;500;700&family=YouTube+Sans:wght@300..900&display=swap
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2752 Byte
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+content-encoding: gzip
+content-type: text/css; charset=utf-8
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 11:34:30 GMT
+expires: Wed, 22 Jan 2025 11:34:30 GMT
+last-modified: Wed, 22 Jan 2025 11:15:02 GMT
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+server: ESF
+timing-allow-origin: *
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+
+
+
+[00012][WEBCL]www-player.css
+URL file: https://www.youtube.com/s/player/dd017f77/www-player.css
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 405984 Byte
+accept-ranges: bytes
+age: 90684
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 50364
+content-type: text/css
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 10:23:09 GMT
+expires: Wed, 21 Jan 2026 10:23:09 GMT
+last-modified: Thu, 16 Jan 2025 05:15:04 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00013][WEBCL]www-main-desktop-watch-page-skeleton.css
+URL file: https://www.youtube.com/s/desktop/3205cbb0/cssbin/www-main-desktop-watch-page-skeleton.css
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 8555 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 1509
+content-type: text/css
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00014][WEBCL]www-main-desktop-player-skeleton.css
+URL file: https://www.youtube.com/s/desktop/3205cbb0/cssbin/www-main-desktop-player-skeleton.css
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2741 Byte
+accept-ranges: bytes
+age: 426275
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 633
+content-type: text/css
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:20:07 GMT
+expires: Sat, 17 Jan 2026 15:20:07 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00015][WEBCL]www-onepick.css
+URL file: https://www.youtube.com/s/desktop/3205cbb0/cssbin/www-onepick.css
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 739 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 240
+content-type: text/css
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00016][WEBCL]rs=AGKMywE44GtlB0q6qypxR9oBE3wzh1QmYA
+URL file: https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.hBIyFHzkDl4.L.B1.O/am=AABBAg/d=0/br=1/rs=AGKMywE44GtlB0q6qypxR9oBE3wzh1QmYA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2578361 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 248743
+content-security-policy: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/youtube-main-app-web-scs-key
+content-type: text/css; charset=UTF-8
+cross-origin-opener-policy: same-origin; report-to="youtube-main-app-web-scs-key"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 02:11:26 GMT
+report-to: {"group":"youtube-main-app-web-scs-key","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube-main-app-web-scs-key"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00017][WEBCL]spf.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/spf.vflset/spf.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 38350 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 13105
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00018][WEBCL]network.js
+URL file: https://www.youtube.com/s/desktop/3205cbb0/jsbin/network.vflset/network.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 14335 Byte
+accept-ranges: bytes
+age: 418758
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 5422
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:12 GMT
+expires: Sat, 17 Jan 2026 15:15:12 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00022][WEBCL]KFOmCnqEu92Fr1Mu4mxK.woff2
+URL file: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 18536 Byte
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 560805
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 18536
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Wed, 15 Jan 2025 23:47:46 GMT
+expires: Thu, 15 Jan 2026 23:47:46 GMT
+last-modified: Thu, 01 Aug 2024 20:41:24 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00023][WEBCL]offline.js
+URL file: https://www.youtube.com/s/player/dd017f77/player_ias.vflset/en_US/offline.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 162293 Byte
+accept-ranges: bytes
+age: 60370
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 35174
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 18:48:23 GMT
+expires: Wed, 21 Jan 2026 18:48:23 GMT
+last-modified: Thu, 16 Jan 2025 05:15:04 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00024][WEBCL]remote.js
+URL file: https://www.youtube.com/s/player/dd017f77/player_ias.vflset/en_US/remote.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 122594 Byte
+accept-ranges: bytes
+age: 60375
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 35396
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 18:48:18 GMT
+expires: Wed, 21 Jan 2026 18:48:18 GMT
+last-modified: Thu, 16 Jan 2025 05:15:04 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00025][WEBCL]miniplayer.js
+URL file: https://www.youtube.com/s/player/dd017f77/player_ias.vflset/en_US/miniplayer.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 7621 Byte
+accept-ranges: bytes
+age: 60370
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 2231
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 18:48:23 GMT
+expires: Wed, 21 Jan 2026 18:48:23 GMT
+last-modified: Thu, 16 Jan 2025 05:15:04 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00026][WEBCL]endscreen.js
+URL file: https://www.youtube.com/s/player/dd017f77/player_ias.vflset/en_US/endscreen.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 34451 Byte
+accept-ranges: bytes
+age: 94984
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 8558
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 11:21:38 GMT
+expires: Wed, 21 Jan 2026 11:21:38 GMT
+last-modified: Thu, 16 Jan 2025 05:15:04 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00027][WEBCL]annotations_module.js
+URL file: https://www.youtube.com/s/player/dd017f77/player_ias.vflset/en_US/annotations_module.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 71098 Byte
+accept-ranges: bytes
+age: 536244
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 19500
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Thu, 16 Jan 2025 08:47:18 GMT
+expires: Fri, 16 Jan 2026 08:47:18 GMT
+last-modified: Thu, 16 Jan 2025 05:15:04 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00028][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=1&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21300
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:18 GMT
+expires: Wed, 22 Jan 2025 14:17:18 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00030][WEBCL]identifier
+URL file: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en&ifkv=AVdkyDknrefIkbacBoMQm3w7Ln9wLaaWjfz25K5FjT41o8zsFsnQl1ZYccOHaz6jO2d4YVjKHyCzTA&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1345003739%3A1737555439303774&ddm=1
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1119099 Byte
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: gzip
+content-security-policy: require-trusted-types-for 'script';report-uri /v3/signin/_/AccountsSignInUi/cspreport,script-src 'report-sample' 'nonce-jEmV_GJIermrGCxq5eUxGg' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /v3/signin/_/AccountsSignInUi/cspreport;worker-src 'self',script-src 'unsafe-inline' 'unsafe-eval' blob: data: 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com https://support.google.com/inapp/ https://www.google.com/tools/feedback/ https://www.gstatic.com/inproduct_help/ https://www.gstatic.com/support/content/;report-uri /v3/signin/_/AccountsSignInUi/cspreport/allowlist
+content-security-policy-report-only: script-src 'unsafe-inline' 'unsafe-eval' blob: data: https://www.google.com/recaptcha/api.js https://translate.google.com/translate_a/element.js https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js https://www.google.com/tools/feedback/load.js https://www.google.com/tools/feedback/open.js https://www.google.com/tools/feedback/open_to_help_guide_lazy.js https://www.google.com/tools/feedback/help_api.js https://www.gstatic.com/inproduct_help/service/lazy.min.js https://www.gstatic.com/inproduct_help/api/main.min.js https://www.gstatic.com/inproduct_help/chatsupport/chatsupport_button_v2.js https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js https://www.gstatic.com/uservoice/feedback/client/web/live/ https://www.google.com/tools/feedback/chat_load.js https://www.gstatic.com/uservoice/surveys/resources/prod/js/survey/ https://www.gstatic.com/feedback/js/ghelp/ https://www.gstatic.com/_/mss/boq-one-google/_/ https://www.gstatic.com/og/_/js/ https://apis.google.com/js/api.js https://apis.google.com/js/client.js https://www.googletagmanager.com/gtag/js https://www.google-analytics.com/analytics.js https://www.googletagmanager.com/gtag/destination https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en.mVFYedfichM.es5.O/ https://apis.google.com/_/scs/abc-static/_/js/ https://translate.googleapis.com/_/translate_http/_/js/ https://www.gstatic.com/recaptcha/releases/;report-uri /v3/signin/_/AccountsSignInUi/cspreport/fine-allowlist
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy-report-only: same-origin; report-to="AccountsSignInUi"
+date: Wed, 22 Jan 2025 14:17:19 GMT
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+pragma: no-cache
+report-to: {"group":"AccountsSignInUi","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/AccountsSignInUi"}]}
+server: ESF
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00031][WEBCL]8IiC491fkZiDnwU-R_SjAMw8X6DEePP7W74TtAWlHNA.js
+URL file: https://www.google.com/js/th/8IiC491fkZiDnwU-R_SjAMw8X6DEePP7W74TtAWlHNA.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 55114 Byte
+accept-ranges: bytes
+age: 559841
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 20991
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/botguard-scs
+content-type: text/javascript
+cross-origin-opener-policy: same-origin; report-to="botguard-scs"
+cross-origin-resource-policy: cross-origin
+date: Thu, 16 Jan 2025 00:03:51 GMT
+expires: Fri, 16 Jan 2026 00:03:51 GMT
+last-modified: Mon, 30 Dec 2024 11:30:00 GMT
+report-to: {"group":"botguard-scs","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/botguard-scs"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00032][WEBCL]no_input.mp3
+URL file: https://www.youtube.com/s/search/audio/no_input.mp3
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6953 Byte
+Content-Length: 6953
+Content-Range: bytes 0-6952/6953
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=0
+content-type: audio/mpeg
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube-marketing"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:19 GMT
+expires: Wed, 22 Jan 2025 14:17:19 GMT
+last-modified: Wed, 12 Jan 2022 21:08:00 GMT
+report-to: {"group":"youtube-marketing","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube-marketing"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00033][WEBCL]open.mp3
+URL file: https://www.youtube.com/s/search/audio/open.mp3
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6167 Byte
+Content-Length: 6167
+Content-Range: bytes 0-6166/6167
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=0
+content-type: audio/mpeg
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube-marketing"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:19 GMT
+expires: Wed, 22 Jan 2025 14:17:19 GMT
+last-modified: Wed, 12 Jan 2022 21:08:00 GMT
+report-to: {"group":"youtube-marketing","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube-marketing"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00034][WEBCL]cast_sender.js
+URL file: https://www.gstatic.com/cv/js/sender/v1/cast_sender.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 4272 Byte
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: private, max-age=3000
+content-encoding: gzip
+content-length: 2007
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview
+content-type: text/javascript
+cross-origin-opener-policy: same-origin; report-to="cloudview"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:44:02 GMT
+expires: Wed, 22 Jan 2025 13:44:02 GMT
+last-modified: Tue, 16 Feb 2021 23:57:06 GMT
+report-to: {"group":"cloudview","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cloudview"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00035][WEBCL]featured_channel.jpg
+URL file: https://i.ytimg.com/an/FJY3URFTwRE8ezL7Oc7hLQ/featured_channel.jpg?v=6411a521
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 4931 Byte
+accept-ranges: bytes
+age: 3038
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 4931
+content-type: image/jpeg
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 12:54:05 GMT
+etag: "1678877985"
+expires: Wed, 22 Jan 2025 14:54:05 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00036][WEBCL]manifest.webmanifest
+URL file: https://www.youtube.com/manifest.webmanifest
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1589 Byte
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: private, max-age=86400
+content-security-policy: require-trusted-types-for 'script'
+content-type: application/manifest+json; charset=utf-8
+cross-origin-opener-policy: same-origin; report-to="youtube_main"
+date: Wed, 22 Jan 2025 11:34:32 GMT
+expires: Wed, 22 Jan 2025 11:34:32 GMT
+origin-trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+report-to: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+server: ESF
+vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+
+
+
+[00037][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=2&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21299
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:19 GMT
+expires: Wed, 22 Jan 2025 14:17:19 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00038][WEBCL]cast_sender.js
+URL file: https://www.gstatic.com/eureka/clank/127/cast_sender.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 50574 Byte
+accept-ranges: bytes
+age: 55705
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=86400
+content-encoding: gzip
+content-length: 14619
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview-release
+content-type: text/javascript
+cross-origin-opener-policy: same-origin; report-to="cloudview-release"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 20:06:09 GMT
+expires: Wed, 22 Jan 2025 20:06:09 GMT
+last-modified: Mon, 03 Jun 2024 15:06:26 GMT
+report-to: {"group":"cloudview-release","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cloudview-release"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00039][WEBCL]KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+URL file: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 18588 Byte
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 559539
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 18588
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Thu, 16 Jan 2025 00:08:53 GMT
+expires: Fri, 16 Jan 2026 00:08:53 GMT
+last-modified: Thu, 01 Aug 2024 20:41:24 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00040][WEBCL]M0.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLAbd1ANZYekWUk9wLzbVqFLAqYpdw
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 35478 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+age: 19350
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 35478
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 08:31:34 GMT
+etag: "1330736948461076"
+expires: Wed, 22 Jan 2025 14:31:34 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00041][WEBCL]success.mp3
+URL file: https://www.youtube.com/s/search/audio/success.mp3
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6636 Byte
+Content-Length: 6636
+Content-Range: bytes 0-6635/6636
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=0
+content-type: audio/mpeg
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube-marketing"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:20 GMT
+expires: Wed, 22 Jan 2025 14:17:20 GMT
+last-modified: Wed, 12 Jan 2022 21:08:00 GMT
+report-to: {"group":"youtube-marketing","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube-marketing"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00042][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/2UHJR4nGs8k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBZA_esi7pgYY6TUwK-uGw6Gb41bw
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 9912 Byte
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 9912
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:20 GMT
+etag: "0"
+expires: Wed, 22 Jan 2025 16:17:20 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00050][WEBCL]failure.mp3
+URL file: https://www.youtube.com/s/search/audio/failure.mp3
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6529 Byte
+Content-Length: 6529
+Content-Range: bytes 0-6528/6529
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=0
+content-type: audio/mpeg
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube-marketing"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:21 GMT
+expires: Wed, 22 Jan 2025 14:17:21 GMT
+last-modified: Wed, 12 Jan 2022 21:08:00 GMT
+report-to: {"group":"youtube-marketing","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube-marketing"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00051][WEBCL]Qw38ZQNGEDjaO2m6tqIqX5E-AVS5_rSejo46_PCTRspJ0OosolrBEJL3HO_T7fE.woff2
+URL file: https://fonts.gstatic.com/s/youtubesans/v30/Qw38ZQNGEDjaO2m6tqIqX5E-AVS5_rSejo46_PCTRspJ0OosolrBEJL3HO_T7fE.woff2
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 32216 Byte
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 561422
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 32216
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Wed, 15 Jan 2025 23:37:30 GMT
+expires: Thu, 15 Jan 2026 23:37:30 GMT
+last-modified: Tue, 16 Apr 2024 20:00:48 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00052][WEBCL]KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+URL file: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 18596 Byte
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 561418
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 18596
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Wed, 15 Jan 2025 23:37:34 GMT
+expires: Thu, 15 Jan 2026 23:37:34 GMT
+last-modified: Thu, 01 Aug 2024 20:41:21 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00053][WEBCL]lottie_light.js
+URL file: https://www.gstatic.com/external_hosted/lottie/lottie_light.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 233597 Byte
+accept-ranges: bytes
+age: 0
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=0
+content-encoding: br
+content-length: 42132
+content-type: text/javascript
+cross-origin-opener-policy-report-only: same-origin; report-to="static-on-bigtable"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:21 GMT
+expires: Wed, 22 Jan 2025 14:17:21 GMT
+last-modified: Wed, 21 Aug 2024 19:48:00 GMT
+report-to: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00055][WEBCL]WHqBCSOSChyz8Vwjoao1XykkQrDgVNGHxjCMZI9Skfr4bVNXfL7TA_YsjEh5w9rrTIynhBE-Bg=s48-c-k-c0x00ffffff-no-rj
+URL file: https://yt3.ggpht.com/WHqBCSOSChyz8Vwjoao1XykkQrDgVNGHxjCMZI9Skfr4bVNXfL7TA_YsjEh5w9rrTIynhBE-Bg=s48-c-k-c0x00ffffff-no-rj
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1271 Byte
+access-control-allow-origin: *
+access-control-expose-headers: Content-Length
+age: 8149
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=86400, no-transform
+content-disposition: inline;filename="channels4_profile.jpg"
+content-length: 1271
+content-type: image/jpeg
+date: Wed, 22 Jan 2025 11:28:56 GMT
+etag: "v1"
+expires: Thu, 23 Jan 2025 11:28:56 GMT
+server: fife
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00056][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/eGewFYQhJEQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAItKCUXMKHB-QaIvBCA16THmyYkA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 4285 Byte
+accept-ranges: bytes
+age: 785
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 4285
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:31:40 GMT
+etag: "1708040984"
+expires: Wed, 22 Jan 2025 15:31:40 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00057][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/2wGQVV4WVWk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLARYts3GDbf2srlLHl0DHxkwDqgkQ
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6031 Byte
+accept-ranges: bytes
+age: 972
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 6031
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:28:33 GMT
+etag: "1734546621"
+expires: Wed, 22 Jan 2025 15:28:33 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00058][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/7HL2DZi7O2o/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDTC2ZXqgZQBDKfnjDf96YpWY1r3Q
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 3582 Byte
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 3582
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:44:45 GMT
+etag: "1734325371"
+expires: Wed, 22 Jan 2025 15:44:45 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00061][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/WUvRNhwRhDg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDM2SNCuMPLg8cUd3hwHj_0Y9UAfw
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6205 Byte
+accept-ranges: bytes
+age: 121
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 6205
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:42:44 GMT
+etag: "1737112411"
+expires: Wed, 22 Jan 2025 15:42:44 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00062][WEBCL]subscribe_action_container_light_v5.json
+URL file: https://www.gstatic.com/youtube/img/lottie/subscribe_action/subscribe_action_container_light_v5.json
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 3612 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+age: 568370
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 607
+content-type: application/json
+cross-origin-opener-policy: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 15 Jan 2025 23:51:55 GMT
+expires: Thu, 15 Jan 2026 23:51:55 GMT
+last-modified: Thu, 18 Jul 2024 19:38:00 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00063][WEBCL]subscribe_action_sparkles_light_v4.json
+URL file: https://www.gstatic.com/youtube/img/lottie/subscribe_action/subscribe_action_sparkles_light_v4.json
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 23163 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+age: 187091
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 1330
+content-type: application/json
+cross-origin-opener-policy: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Mon, 20 Jan 2025 09:46:34 GMT
+expires: Tue, 20 Jan 2026 09:46:34 GMT
+last-modified: Wed, 12 Jun 2024 01:58:00 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding, Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00064][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/vCyPPSnvZWY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCMR5Xsz8NAT41tATeRGIJn47ncjA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 5461 Byte
+accept-ranges: bytes
+age: 504
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 5461
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:36:21 GMT
+etag: "1719304950"
+expires: Wed, 22 Jan 2025 15:36:21 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00065][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/TiBaBvQP7Zg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB0wOoHO3z4865NfmwSFSFAvvBfCw
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6407 Byte
+accept-ranges: bytes
+age: 2179
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 6407
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:08:26 GMT
+etag: "1724527359"
+expires: Wed, 22 Jan 2025 15:08:26 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00066][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/YJmbU26caBw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC5wxMBv0gyYmXtuxNo6R08mYU_kg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 4491 Byte
+accept-ranges: bytes
+age: 73
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 4491
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:43:32 GMT
+etag: "1731577849"
+expires: Wed, 22 Jan 2025 15:43:32 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00067][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/17a9U7qrd1w/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBZlBW4m2xlxvtxGi71mINhbq9jrA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 5152 Byte
+accept-ranges: bytes
+age: 286
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 5152
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:40:00 GMT
+etag: "1735562780"
+expires: Wed, 22 Jan 2025 15:40:00 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00068][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/5-YCNuw_0CU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAlrrJG7JZ87WV_03lJgBFXxpvYQA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 5444 Byte
+accept-ranges: bytes
+age: 10
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=300
+content-length: 5444
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:12 GMT
+etag: "1737387738"
+expires: Wed, 22 Jan 2025 14:22:12 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00069][WEBCL]favicon_144x144_v2.png
+URL file: https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144_v2.png
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1604 Byte
+accept-ranges: bytes
+age: 561024
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 1604
+content-type: image/png
+cross-origin-opener-policy-report-only: same-origin; report-to="static-on-bigtable"
+cross-origin-resource-policy: cross-origin
+date: Wed, 15 Jan 2025 23:44:09 GMT
+expires: Thu, 15 Jan 2026 23:44:09 GMT
+last-modified: Tue, 28 May 2024 17:38:00 GMT
+report-to: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00070][WEBCL]favicon.ico
+URL file: https://www.youtube.com/s/desktop/3205cbb0/img/logos/favicon.ico
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1150 Byte
+accept-ranges: bytes
+age: 418744
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: br
+content-length: 146
+content-type: image/x-icon
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:29 GMT
+expires: Sat, 17 Jan 2026 15:15:29 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00071][WEBCL]favicon_32x32.png
+URL file: https://www.youtube.com/s/desktop/3205cbb0/img/logos/favicon_32x32.png
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 3214 Byte
+accept-ranges: bytes
+age: 418744
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 3214
+content-type: image/png
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Fri, 17 Jan 2025 15:15:29 GMT
+expires: Sat, 17 Jan 2026 15:15:29 GMT
+last-modified: Fri, 17 Jan 2025 04:16:50 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00072][WEBCL]css
+URL file: https://fonts.googleapis.com/css?family=Roboto_old:300italic,400italic,500italic,700italic
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 736 Byte
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+content-encoding: gzip
+content-type: text/css; charset=utf-8
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 11:34:32 GMT
+expires: Wed, 22 Jan 2025 11:34:32 GMT
+last-modified: Wed, 22 Jan 2025 11:18:58 GMT
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+server: ESF
+timing-allow-origin: *
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+
+
+
+[00073][WEBCL]css
+URL file: https://fonts.googleapis.com/css?family=Roboto+Mono:400
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 211 Byte
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+content-encoding: gzip
+content-type: text/css; charset=utf-8
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 11:34:32 GMT
+expires: Wed, 22 Jan 2025 11:34:32 GMT
+last-modified: Wed, 22 Jan 2025 11:00:42 GMT
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+server: ESF
+timing-allow-origin: *
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+
+
+
+[00075][WEBCL]24px.svg
+URL file: https://fonts.gstatic.com/s/i/youtube_fill/person_radar/v5/24px.svg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 585 Byte
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 514624
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-encoding: gzip
+content-length: 338
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: image/svg+xml
+cross-origin-opener-policy: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Thu, 16 Jan 2025 15:20:20 GMT
+expires: Fri, 16 Jan 2026 15:20:20 GMT
+last-modified: Thu, 12 Dec 2024 18:40:11 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00076][WEBCL]mqdefault_6s.webp
+URL file: https://i.ytimg.com/an_webp/WUvRNhwRhDg/mqdefault_6s.webp?du=3000&sqp=CKj6w7wG&rs=AOn4CLAXkkxq4PQFmXP2cSWE1TEEBGR1TQ
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 147976 Byte
+accept-ranges: bytes
+age: 182
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 147976
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:14:27 GMT
+etag: "1737113308"
+expires: Wed, 22 Jan 2025 20:14:27 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00077][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=3&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21291
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:27 GMT
+expires: Wed, 22 Jan 2025 14:17:27 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00079][WEBCL]mqdefault_6s.webp
+URL file: https://i.ytimg.com/an_webp/vCyPPSnvZWY/mqdefault_6s.webp?du=3000&sqp=CLTlw7wG&rs=AOn4CLC1xOtNXEkfvg9FE5iJFmzBSk6vcw
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 149984 Byte
+accept-ranges: bytes
+age: 1281
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 149984
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:54:06 GMT
+etag: "1719305466"
+expires: Wed, 22 Jan 2025 19:54:06 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00080][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=4&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21288
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:30 GMT
+expires: Wed, 22 Jan 2025 14:17:30 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00082][WEBCL]mqdefault_6s.webp
+URL file: https://i.ytimg.com/an_webp/eGewFYQhJEQ/mqdefault_6s.webp?du=3000&sqp=CJj1w7wG&rs=AOn4CLDzb9IBa1vEn8ANPMmqracrzf5uXQ
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 134028 Byte
+accept-ranges: bytes
+age: 608
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 134028
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:07:26 GMT
+etag: "1707092153"
+expires: Wed, 22 Jan 2025 20:07:26 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00083][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=5&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21281
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:37 GMT
+expires: Wed, 22 Jan 2025 14:17:37 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00084][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=6&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21278
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:40 GMT
+expires: Wed, 22 Jan 2025 14:17:40 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00086][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=7&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21271
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:47 GMT
+expires: Wed, 22 Jan 2025 14:17:47 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00088][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=8&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21267
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:51 GMT
+expires: Wed, 22 Jan 2025 14:17:51 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00089][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=9&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21262
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:56 GMT
+expires: Wed, 22 Jan 2025 14:17:56 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00090][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=10&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21261
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:57 GMT
+expires: Wed, 22 Jan 2025 14:17:57 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00091][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=11&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21257
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:01 GMT
+expires: Wed, 22 Jan 2025 14:18:01 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00092][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=12&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21257
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:01 GMT
+expires: Wed, 22 Jan 2025 14:18:01 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00093][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=13&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21251
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:07 GMT
+expires: Wed, 22 Jan 2025 14:18:07 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00094][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=14&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21251
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:07 GMT
+expires: Wed, 22 Jan 2025 14:18:07 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00096][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=15&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21247
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:11 GMT
+expires: Wed, 22 Jan 2025 14:18:11 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00097][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=16&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21241
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:17 GMT
+expires: Wed, 22 Jan 2025 14:18:17 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00098][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=17&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21240
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:18 GMT
+expires: Wed, 22 Jan 2025 14:18:18 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00100][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=18&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21237
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:21 GMT
+expires: Wed, 22 Jan 2025 14:18:21 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00101][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=19&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21230
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:28 GMT
+expires: Wed, 22 Jan 2025 14:18:28 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00102][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=20&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21229
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:29 GMT
+expires: Wed, 22 Jan 2025 14:18:29 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00103][WEBCL]videoplayback
+URL file: https://rr1---sn-uxaxpu5ap5-ju5e.googlevideo.com/videoplayback?expire=1737577038&ei=7v2QZ8KVG-DCi9oPuPusyQ0&ip=79.44.43.93&id=o-AFajsG1ng3OB_D4r2Gr5ldKZ68nnOOOugdKMOFfbDrYZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1737555438%2C&mh=Kt&mm=31%2C29&mn=sn-uxaxpu5ap5-ju5e%2Csn-hpa7kn76&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=2532500&spc=9kzgDXKN8KNE3MdRJF-lKyI22nXom3weNGMCnFv2XYSdjP53TA&svpuc=1&ns=2ZSM9Xbl_egs8cE26w5grQkQ&sabr=1&rqh=1&mt=1737554940&fvip=5&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51355912%2C51358316%2C51371294%2C51384461&c=WEB&n=22bpm4OpESjI7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgNO6HwF-rxsrt8_SgAfbBjEWJT7PCRJYgG-AHoMsWrOYCICEcHhBwkCaCvk7Oc_6e4vxj8ZYuhm38-Co-VaKNq_K8&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAL-L717_1FNkpgxoG6iK8EuutRIY9y32svS9lHOrRuKzAiEAqVmRtD6SYyHQFA906Y2QW7MREpyGStQ1VbL85GbYlFY%3D&cpn=9kpXBuW6_n8NCtw1&cver=2.20250116.10.00&rn=21&alr=yes
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31 Byte
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+access-control-expose-headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-Est3, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Millis, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Restrict-Formats-Hint, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+cache-control: private, max-age=21222
+client-protocol: quic
+content-type: application/vnd.yt-ump
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:36 GMT
+expires: Wed, 22 Jan 2025 14:18:36 GMT
+server: gvs 1.0
+timing-allow-origin: https://www.youtube.com
+vary: Origin
+x-content-type-options: nosniff
+
+
+
+[00112][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/AqpkVOyClCM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHPXeWsYWXF3Zz1RVkFmBas_m5LA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 5982 Byte
+accept-ranges: bytes
+age: 71
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=300
+content-length: 5982
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:18:58 GMT
+etag: "1737499621"
+expires: Wed, 22 Jan 2025 14:23:58 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00113][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/eGewFYQhJEQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpdZw7RSzafFVEsHSdJlQ6YxX2IQ
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 10191 Byte
+accept-ranges: bytes
+age: 2504
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 10191
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:38:27 GMT
+etag: "1708040984"
+expires: Wed, 22 Jan 2025 15:38:27 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00114][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/2wGQVV4WVWk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoveP83ZocY60302FOKgprpxMQ2A
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 18937 Byte
+accept-ranges: bytes
+age: 603
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 18937
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:10:08 GMT
+etag: "1734546621"
+expires: Wed, 22 Jan 2025 16:10:08 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00115][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/7HL2DZi7O2o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClVRzzTEsGrw3QJ7kJJuX9ZxHLXg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 9010 Byte
+accept-ranges: bytes
+age: 2498
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 9010
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:38:33 GMT
+etag: "1734325371"
+expires: Wed, 22 Jan 2025 15:38:33 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00116][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/WUvRNhwRhDg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDhYxjZsfzVAw89yLABYXrAm3RLmQ
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 14417 Byte
+accept-ranges: bytes
+age: 566
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 14417
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:10:45 GMT
+etag: "1737112411"
+expires: Wed, 22 Jan 2025 16:10:45 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00117][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/vCyPPSnvZWY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnvjxetGRIlZrC4TVvsxEA-hKsVA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 11085 Byte
+accept-ranges: bytes
+age: 6958
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 11085
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 12:24:13 GMT
+etag: "1719304950"
+expires: Wed, 22 Jan 2025 14:24:13 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00118][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/TiBaBvQP7Zg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBSWnmnGddMBMte_nVlX4pmVkz9iA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 18484 Byte
+accept-ranges: bytes
+age: 6631
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 18484
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 12:29:40 GMT
+etag: "1724527359"
+expires: Wed, 22 Jan 2025 14:29:40 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00120][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/YJmbU26caBw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBd0fZCYCld59QERZ34O0K9uUk_pg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 11081 Byte
+accept-ranges: bytes
+age: 466
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 11081
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:12:25 GMT
+etag: "1731577849"
+expires: Wed, 22 Jan 2025 16:12:25 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00121][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/17a9U7qrd1w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAd1KIVPI8JV4HT_5wBi8v2ZZseDQ
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 10556 Byte
+accept-ranges: bytes
+age: 5126
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 10556
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 12:54:45 GMT
+etag: "1735562780"
+expires: Wed, 22 Jan 2025 14:54:45 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00122][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/5-YCNuw_0CU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVX-kkYUEIfFTJpq620lTvPKQVOw
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 13194 Byte
+accept-ranges: bytes
+age: 155
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=300
+content-length: 13194
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:17:36 GMT
+etag: "1737387738"
+expires: Wed, 22 Jan 2025 14:22:36 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00123][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/PAKviZPbNTI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBf-pUEpc1sZI23hNfmGimUSqAFVA
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 12594 Byte
+accept-ranges: bytes
+age: 2087
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 12594
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 13:45:24 GMT
+etag: "1735479916"
+expires: Wed, 22 Jan 2025 15:45:24 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00124][WEBCL]hqdefault.jpg
+URL file: https://i.ytimg.com/vi/qODpS25WWWo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqC7i7h4ka7xwig45XUPh8MBhA_g
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 9883 Byte
+accept-ranges: bytes
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=7200
+content-length: 9883
+content-type: image/avif
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:11 GMT
+etag: "1427699767"
+expires: Wed, 22 Jan 2025 16:20:11 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+timing-allow-origin: *
+vary: Origin
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00126][WEBCL]M9.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M9.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 13226 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 13226
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736953822528"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00127][WEBCL]M0.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLAGaGUQRa6RRMokvGRXQZOIwYw10g
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 30256 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 30256
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736948752451"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00128][WEBCL]M6.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M6.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31642 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 31642
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736952976011"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00129][WEBCL]M3.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 32066 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 32066
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736951754738"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00130][WEBCL]M2.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 31300 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 31300
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736951653678"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00131][WEBCL]M5.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M5.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 32184 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 32184
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736952416053"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00132][WEBCL]M4.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M4.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 32444 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 32444
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736952316097"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00133][WEBCL]M8.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M8.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 30544 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 30544
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736953541169"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00134][WEBCL]M1.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 29692 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 29692
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736951094739"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00135][WEBCL]M7.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M7.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 30718 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 30718
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736953259018"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00136][WEBCL]M0.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L3/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLBo137DsYfaW5tWh5han8Z_6Xwohg
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 29790 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 29790
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:16 GMT
+etag: "1330736950537035"
+expires: Wed, 22 Jan 2025 20:20:16 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00137][WEBCL]M1.jpg
+URL file: https://i.ytimg.com/sb/2UHJR4nGs8k/storyboard3_L2/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi53sX6BA==&sigh=rs%24AOn4CLAGaGUQRa6RRMokvGRXQZOIwYw10g
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 32220 Byte
+accept-ranges: bytes
+access-control-allow-origin: https://www.youtube.com
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 32220
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 14:20:17 GMT
+etag: "1330736949945733"
+expires: Wed, 22 Jan 2025 20:20:17 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00140][WEBCL]mqdefault_6s.webp
+URL file: https://i.ytimg.com/an_webp/2wGQVV4WVWk/mqdefault_6s.webp?du=3000&sqp=CIjOw7wG&rs=AOn4CLBVul2MrdNvEykAT7ZAEl7HUOFSTQ
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 130184 Byte
+accept-ranges: bytes
+age: 3879
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=21600
+content-length: 130184
+content-type: image/webp
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 12:41:29 GMT
+etag: "1734354180"
+expires: Wed, 22 Jan 2025 18:41:29 GMT
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+server: sffe
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00143][WEBCL]favicon_48x48.png
+URL file: https://www.youtube.com/s/desktop/3205cbb0/img/logos/favicon_48x48.png
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 3490 Byte
+
+
+
+[00144][WEBCL]favicon_96x96.png
+URL file: https://www.youtube.com/s/desktop/3205cbb0/img/logos/favicon_96x96.png
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 4249 Byte
+
+
+
+[00145][WEBCL]favicon_144x144.png
+URL file: https://www.youtube.com/s/desktop/3205cbb0/img/logos/favicon_144x144.png
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 5020 Byte
+
+
+
+[00146][WEBCL]amily=Roboto_oldwght@300;400;500;700&family=YouTube+Sanswght@300..900&display=swap
+URL file: https://fonts.googleapis.com/css2?family=Roboto_old:wght@300;400;500;700&family=YouTube+Sans:wght@300..900&display=swap
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2752 Byte
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+content-encoding: gzip
+content-type: text/css; charset=utf-8
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: cross-origin
+date: Wed, 22 Jan 2025 11:34:30 GMT
+expires: Wed, 22 Jan 2025 11:34:30 GMT
+last-modified: Wed, 22 Jan 2025 11:15:02 GMT
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+server: ESF
+timing-allow-origin: *
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+
+
+
+[00147][WEBCL]oembed
+URL file: https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2UHJR4nGs8k
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 846 Byte
+
+
+
+[00148][WEBCL]oembed
+URL file: https://www.youtube.com/oembed?format=xml&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2UHJR4nGs8k
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1009 Byte
+
+
+
+[00149][WEBCL]ServiceLogin
+URL file: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D2UHJR4nGs8k&hl=en&ec=65620
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 876458 Byte
+
+
+
+[00150][WEBCL]redirect
+URL file: https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbWtSdlk4TlBJd1dXaWxOMlpfaGd0UGhWNkFQQXxBQ3Jtc0ttY0gzOUxvSy12UWhlSUJ0RWNCMDEzZk54OU5yYTNqRHN0eWdvcF95Vm02SHVqRTZQQmJ3bk9Pdmk5QkhnUHp0emNoSzlvN1EyN0xpUHRPRlNvdHRaZ3B0ZGhmMGFvc2d5S2w5RERVQTBmZUVSb3FwNA&q=https%3A%2F%2Fwww.facebook.com%2FCronacaQui%2F
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6865 Byte
+
+
+
+[00151][WEBCL]redirect
+URL file: https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbmpvUlozR0lHRnd4ZHM5andvYjBTTU5wd1QtUXxBQ3Jtc0trRW40ZFFyc3Z2QjNFUmlPa3RJMWdJY0otZmdtc0h2a1ZQbFdaMFNsMmxGWFh6b2tXWGV2dHpGS2Mya21ZT1R0d1JSbjlxRmViaFk5NFFxcjFJN2lPNTNXcDduWjh2VmEwc0RQYmRCOWgxakdDOVVnVQ&q=https%3A%2F%2Fwww.instagram.com%2Fcronacaqui%2F
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 6867 Byte
+
+
+
+[00152][WEBCL]manifest
+URL file: https://www.youtube.com/manifest.webmanifest
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 1589 Byte
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: private, max-age=86400
+content-security-policy: require-trusted-types-for 'script'
+content-type: application/manifest+json; charset=utf-8
+cross-origin-opener-policy: same-origin; report-to="youtube_main"
+date: Wed, 22 Jan 2025 11:34:32 GMT
+expires: Wed, 22 Jan 2025 11:34:32 GMT
+origin-trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+report-to: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+server: ESF
+vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+
+
+
+[00154][WEBCL]ender.js
+URL file: https://www.gstatic.com/eureka/clank/127/cast_sender.js
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 50574 Byte
+accept-ranges: bytes
+age: 55705
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: public, max-age=86400
+content-encoding: gzip
+content-length: 14619
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview-release
+content-type: text/javascript
+cross-origin-opener-policy: same-origin; report-to="cloudview-release"
+cross-origin-resource-policy: cross-origin
+date: Tue, 21 Jan 2025 20:06:09 GMT
+expires: Wed, 22 Jan 2025 20:06:09 GMT
+last-modified: Mon, 03 Jun 2024 15:06:26 GMT
+report-to: {"group":"cloudview-release","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cloudview-release"}]}
+server: sffe
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+[00155][WEBCL]ServiceLogin
+URL file: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 876445 Byte
+
+
+
+Network_Dump_0A0027000010.pcap
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 2256 Byte
+
+
+
+Network_Dump_2C98118D13D1.pcap
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 45365470 Byte
+
+
+
+ScreenCapture.mp4
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 74290080 Byte
+
+
+
+certServer.cer
+================================================================================
+Hash MD5: DEMO VERSION - This value has been removed
+Hash SHA1: DEMO VERSION - This value has been removed
+Hash SHA256: DEMO VERSION - This value has been removed
+Dimensioni: 3598 Byte
+
+
